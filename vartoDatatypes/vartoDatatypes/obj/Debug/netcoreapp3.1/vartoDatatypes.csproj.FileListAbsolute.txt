@@ -1,0 +1,13 @@
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\obj\Debug\netcoreapp3.1\vartoDatatypes.csprojAssemblyReference.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\obj\Debug\netcoreapp3.1\vartoDatatypes.AssemblyInfoInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\obj\Debug\netcoreapp3.1\vartoDatatypes.AssemblyInfo.cs
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\obj\Debug\netcoreapp3.1\vartoDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\bin\Debug\netcoreapp3.1\vartoDatatypes.exe
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\bin\Debug\netcoreapp3.1\vartoDatatypes.deps.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\bin\Debug\netcoreapp3.1\vartoDatatypes.runtimeconfig.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\bin\Debug\netcoreapp3.1\vartoDatatypes.runtimeconfig.dev.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\bin\Debug\netcoreapp3.1\vartoDatatypes.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\bin\Debug\netcoreapp3.1\vartoDatatypes.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\obj\Debug\netcoreapp3.1\vartoDatatypes.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\obj\Debug\netcoreapp3.1\vartoDatatypes.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\vartoDatatypes\vartoDatatypes\obj\Debug\netcoreapp3.1\vartoDatatypes.genruntimeconfig.cache

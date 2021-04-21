@@ -1,0 +1,13 @@
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\bin\Debug\netcoreapp3.1\arraysandloops.exe
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\bin\Debug\netcoreapp3.1\arraysandloops.deps.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\bin\Debug\netcoreapp3.1\arraysandloops.runtimeconfig.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\bin\Debug\netcoreapp3.1\arraysandloops.runtimeconfig.dev.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\bin\Debug\netcoreapp3.1\arraysandloops.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\bin\Debug\netcoreapp3.1\arraysandloops.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\obj\Debug\netcoreapp3.1\arraysandloops.csprojAssemblyReference.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\obj\Debug\netcoreapp3.1\arraysandloops.AssemblyInfoInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\obj\Debug\netcoreapp3.1\arraysandloops.AssemblyInfo.cs
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\obj\Debug\netcoreapp3.1\arraysandloops.csproj.CoreCompileInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\obj\Debug\netcoreapp3.1\arraysandloops.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\obj\Debug\netcoreapp3.1\arraysandloops.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\arraysandloops\arraysandloops\obj\Debug\netcoreapp3.1\arraysandloops.genruntimeconfig.cache

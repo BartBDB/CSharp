@@ -1,0 +1,4 @@
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\QuestFactory\QuestFactory\obj\Debug\netcoreapp3.1\QuestFactory.csprojAssemblyReference.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\QuestFactory\QuestFactory\obj\Debug\netcoreapp3.1\QuestFactory.AssemblyInfoInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\QuestFactory\QuestFactory\obj\Debug\netcoreapp3.1\QuestFactory.AssemblyInfo.cs
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\QuestFactory\QuestFactory\obj\Debug\netcoreapp3.1\QuestFactory.csproj.CoreCompileInputs.cache

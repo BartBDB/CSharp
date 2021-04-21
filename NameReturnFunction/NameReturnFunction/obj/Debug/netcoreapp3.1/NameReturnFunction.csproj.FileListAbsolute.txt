@@ -1,0 +1,13 @@
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\bin\Debug\netcoreapp3.1\NameReturnFunction.exe
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\bin\Debug\netcoreapp3.1\NameReturnFunction.deps.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\bin\Debug\netcoreapp3.1\NameReturnFunction.runtimeconfig.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\bin\Debug\netcoreapp3.1\NameReturnFunction.runtimeconfig.dev.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\bin\Debug\netcoreapp3.1\NameReturnFunction.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\bin\Debug\netcoreapp3.1\NameReturnFunction.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\obj\Debug\netcoreapp3.1\NameReturnFunction.csprojAssemblyReference.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\obj\Debug\netcoreapp3.1\NameReturnFunction.AssemblyInfoInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\obj\Debug\netcoreapp3.1\NameReturnFunction.AssemblyInfo.cs
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\obj\Debug\netcoreapp3.1\NameReturnFunction.csproj.CoreCompileInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\obj\Debug\netcoreapp3.1\NameReturnFunction.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\obj\Debug\netcoreapp3.1\NameReturnFunction.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Hulp nodig\NameReturnFunction\NameReturnFunction\obj\Debug\netcoreapp3.1\NameReturnFunction.genruntimeconfig.cache

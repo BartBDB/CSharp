@@ -1,0 +1,13 @@
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\obj\Debug\netcoreapp3.1\Method Scopes.csprojAssemblyReference.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\obj\Debug\netcoreapp3.1\Method Scopes.AssemblyInfoInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\obj\Debug\netcoreapp3.1\Method Scopes.AssemblyInfo.cs
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\obj\Debug\netcoreapp3.1\Method Scopes.csproj.CoreCompileInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\bin\Debug\netcoreapp3.1\Method Scopes.exe
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\bin\Debug\netcoreapp3.1\Method Scopes.deps.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\bin\Debug\netcoreapp3.1\Method Scopes.runtimeconfig.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\bin\Debug\netcoreapp3.1\Method Scopes.runtimeconfig.dev.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\bin\Debug\netcoreapp3.1\Method Scopes.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\bin\Debug\netcoreapp3.1\Method Scopes.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\obj\Debug\netcoreapp3.1\Method Scopes.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\obj\Debug\netcoreapp3.1\Method Scopes.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 5\Method Scopes\Method Scopes\obj\Debug\netcoreapp3.1\Method Scopes.genruntimeconfig.cache

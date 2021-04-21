@@ -1,0 +1,12 @@
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\bin\Debug\netcoreapp3.1\VariablesandDatatypes.exe
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\bin\Debug\netcoreapp3.1\VariablesandDatatypes.deps.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\bin\Debug\netcoreapp3.1\VariablesandDatatypes.runtimeconfig.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\bin\Debug\netcoreapp3.1\VariablesandDatatypes.runtimeconfig.dev.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\bin\Debug\netcoreapp3.1\VariablesandDatatypes.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\bin\Debug\netcoreapp3.1\VariablesandDatatypes.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\obj\Debug\netcoreapp3.1\VariablesandDatatypes.AssemblyInfoInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\obj\Debug\netcoreapp3.1\VariablesandDatatypes.AssemblyInfo.cs
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\obj\Debug\netcoreapp3.1\VariablesandDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\obj\Debug\netcoreapp3.1\VariablesandDatatypes.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\obj\Debug\netcoreapp3.1\VariablesandDatatypes.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\VariablesandDatatypes\VariablesandDatatypes\obj\Debug\netcoreapp3.1\VariablesandDatatypes.genruntimeconfig.cache

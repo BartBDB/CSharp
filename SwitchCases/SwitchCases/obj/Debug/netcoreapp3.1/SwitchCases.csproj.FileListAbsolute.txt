@@ -1,0 +1,26 @@
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.AssemblyInfoInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.AssemblyInfo.cs
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.csproj.CoreCompileInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.csprojAssemblyReference.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.exe
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.deps.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.runtimeconfig.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.runtimeconfig.dev.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.genruntimeconfig.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.exe
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.deps.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.runtimeconfig.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.runtimeconfig.dev.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.csprojAssemblyReference.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.AssemblyInfoInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.AssemblyInfo.cs
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.csproj.CoreCompileInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les 3\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.genruntimeconfig.cache

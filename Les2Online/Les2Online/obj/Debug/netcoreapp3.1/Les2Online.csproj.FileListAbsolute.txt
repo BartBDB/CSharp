@@ -1,0 +1,13 @@
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\bin\Debug\netcoreapp3.1\Les2Online.exe
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\bin\Debug\netcoreapp3.1\Les2Online.deps.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\bin\Debug\netcoreapp3.1\Les2Online.runtimeconfig.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\bin\Debug\netcoreapp3.1\Les2Online.runtimeconfig.dev.json
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\bin\Debug\netcoreapp3.1\Les2Online.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\bin\Debug\netcoreapp3.1\Les2Online.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\obj\Debug\netcoreapp3.1\Les2Online.csprojAssemblyReference.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\obj\Debug\netcoreapp3.1\Les2Online.AssemblyInfoInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\obj\Debug\netcoreapp3.1\Les2Online.AssemblyInfo.cs
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\obj\Debug\netcoreapp3.1\Les2Online.csproj.CoreCompileInputs.cache
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\obj\Debug\netcoreapp3.1\Les2Online.dll
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\obj\Debug\netcoreapp3.1\Les2Online.pdb
+C:\Users\bartd\Documents\MA\Bewijzenmap\Periode 1.3\C#\Les2Online\Les2Online\obj\Debug\netcoreapp3.1\Les2Online.genruntimeconfig.cache
